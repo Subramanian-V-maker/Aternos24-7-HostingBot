@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "horrorthrillbedrock.aternos.me",
+    "port": 52448,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Welcome To Subramanian's server!",
+        "Abhishek Pls Fix ur VAI",
+        "The Winner of International VAI Awards 2026 is Abhishek VAI"
       ]
     },
     "chat-log": true,
